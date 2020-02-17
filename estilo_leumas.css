@@ -13,8 +13,7 @@ body  {
 }
 
 h1 {
-
-	color: #F2F2F2;
+	color: #f9f9f9;
 }
 
 #cabecalho {
@@ -102,18 +101,76 @@ a:hover {
 	align-items: center;
 	text-align: center;
 }
+
 img.escala {
 	width: 100%;
 	top: 10px;
 }
 
+
+a.groupskill {
+	width: 100%;
+	top: 10px;
+	
+}
+
+a.groupskill :hover {
+	color: blue;
+	text-underline-position: auto;
+		
+}
+
+.skill {
+	width: 700px;
+	height: 30px;
+	margin: 2px;
+	display: flex;	
+}
+
+#css {
+	font-size: 15px;
+	margin: 12px 10px 15px 25px;
+	padding: 1px;
+	width: 700px;
+	height: 18px;
+	background-image: linear-gradient(to right, rgb(0, 0, 0), transparent); 
+	text-align: center;
+	color: #3D3D3D;
+	border-radius: 9px; 
+}
+
+#html {
+	font-size: 15px;
+	margin: 12px 5px 10px 23px;
+	padding: 1px;
+	width: 700px;
+	height: 18px;
+	background-image: linear-gradient(to right, rgb(0, 0, 0), transparent); 
+	text-align: center;
+	color: #3D3D3D;
+	border-radius: 10px; 
+}
+
+#java {
+	font-size: 15px;
+	margin: 12px 10px 10px 10px;
+	padding: 1px;
+	width: 200px;
+	height: 18px;
+	background-image: linear-gradient(to right, rgb(0, 0, 0), transparent); 
+	text-align: center;
+	color: #3D3D3D;
+	border-radius: 10px; 
+}
+
+
 .box {
 	width: 748px;
 	float: center;
-	margin:2% 1%;
+	margin:3% 1%;
 	padding: 0.5% 2%;
 	border-radius: 8px;  
-	background-color:#F2F2F2;
+	background-color:#f9f9f9;
   }
   .box h2 {
 	margin:0,3% 0;
@@ -134,3 +191,14 @@ img.escala {
 	margin:0,2% 0;
 		
   }
+
+	#contem{	
+	float: right;
+	width: 18%;
+	top: 10px;
+	border: thick silver dotted;
+	margin: 0.6em;
+	padding: 0.1em;
+	align-items: center;
+	
+}
