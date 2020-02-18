@@ -118,13 +118,13 @@ img.escala {
 }
 
 
-a.groupskill {
+a.groupskill:link {
 	width: 100%;
 	top: 10px;
 	
 }
 
-a.groupskill :hover {
+a.groupskill:hover {
 	color: blue;
 	text-underline-position: auto;
 		
