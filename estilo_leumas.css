@@ -36,11 +36,10 @@ h1 {
 	color: red;
 }
 img.robo {
-    float: right;
 	width: 13%;
-	margin-right: 50px;
-	top: 0px;
-	align-items: center;
+    float: right;
+	margin: 0 auto;
+	vertical-align: top;
 
 }
 
