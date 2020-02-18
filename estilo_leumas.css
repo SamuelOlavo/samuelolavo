@@ -70,7 +70,7 @@ a:link {
 	text-decoration:none;
 }
  a:visited {
-	color: yellow;
+	color: #290A52;
 	font-size: 20px;
 	text-decoration:none;
 }
@@ -79,7 +79,7 @@ a:hover {
 	font-size:30px;
 }
 a:active {
-	color: #290A52;
+	color: yellow;
 	font-size:30px;
 }
 
