@@ -37,7 +37,7 @@ h1 {
 }
 img.robo {
 	width: 13%;
-    float: right;
+        float: right;
 	margin: 0 auto;
 	vertical-align: top;
 
@@ -54,7 +54,7 @@ img.robo {
 
 }
 
-a:link, a:active, a:visited {
+a:link, a:visited {
 	color: white;
 	font-size: 20px;
 	text-decoration:none;
@@ -73,6 +73,10 @@ a:link, a:active, a:visited {
 
 a:hover {
 	color: white;
+	font-size:30px;
+}
+a:active {
+	color: #290A52;
 	font-size:30px;
 }
 
