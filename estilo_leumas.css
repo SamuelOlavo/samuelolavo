@@ -54,12 +54,6 @@ img.robo {
 
 }
 
-a:link, a:visited {
-	color: white;
-	font-size: 20px;
-	text-decoration:none;
-}
-
 .menu2 {
 	width: 120px;
 	height: 40px;
@@ -70,7 +64,16 @@ a:link, a:visited {
 	justify-content: center;
 	text-align: center;
 }
-
+a:link {
+	color: white;
+	font-size: 20px;
+	text-decoration:none;
+}
+ a:visited {
+	color: yellow;
+	font-size: 20px;
+	text-decoration:none;
+}
 a:hover {
 	color: white;
 	font-size:30px;
