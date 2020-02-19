@@ -21,10 +21,12 @@ h1 {
 	width: 100%;
 	background: #3ECCDA; 
 	height: 190px;
+	box-shadow: 0 0 30px black;
 }
 
 #DivLogo {
 	/*position:top ;*/
+	text-shadow: 8px 8px 8px black;
 	vertical-align: top;
 	font-size: 30px;
 	margin: 0 auto;
@@ -37,7 +39,7 @@ h1 {
 }
 img.robo {
 	width: 13%;
-        float: right;
+    float: right;
 	margin: 0 auto;
 	vertical-align: top;
 
@@ -51,7 +53,6 @@ img.robo {
 	justify-content: center;
 	text-align: center;
 	
-
 }
 
 .menu2 {
@@ -78,18 +79,18 @@ a:link {
 a:hover {
 	color: white;
 	font-size:30px;
+	opacity: 100%;
+	text-shadow: 2px 0 2px black;
 }
 a:active {
 	color: yellow;
 	font-size:30px;
 }
 
-
 .menu2:hover {
 	font-size:250%;
 	font-weight: bold;
-	background: #290A52;
-	
+		
 }
 
 .conteudo{
@@ -185,6 +186,7 @@ a.groupskill:hover {
 	padding: 0.5% 2%;
 	border-radius: 8px;  
 	background-color:#f9f9f9;
+	box-shadow: 0 0 30px black;
   }
   .box h2 {
 	margin:0,5% 0;
