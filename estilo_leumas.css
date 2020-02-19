@@ -66,18 +66,18 @@ img.robo {
 	text-align: center;
 }
 a:link {
-	color: white;
+	color: #FFBB00;
 	font-size: 20px;
 	text-decoration:none;
 }
  a:visited {
 	/*color: #290A52;*/
-	color: white;
+	color: #FFBB00;
 	font-size: 20px;
 	text-decoration:none;
 }
 a:hover {
-	color: white;
+	color: #FFBB00;
 	font-size:30px;
 	opacity: 100%;
 	text-shadow: 2px 0 2px black;
