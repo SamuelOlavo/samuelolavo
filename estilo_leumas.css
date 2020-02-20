@@ -38,10 +38,13 @@ h1 {
 	color: red;
 }
 img.robo {
-	width: 13%;
-    float: right;
-	margin: 0 auto;
-	vertical-align: top;
+	width: 100px;
+	height: 90px;
+	position: absolute;
+	left: 70%;
+	margin-left:-100px;
+	top:50%;
+	margin-top: -40px;
 
 }
 
@@ -211,8 +214,28 @@ a.groupskill:hover {
 #contem{	
 	float: right;
 	width: 10%;
-	top: 5px;
-	display: block;
-        margin-left: auto;
-        margin-right: auto 
+	bottom: 50px;
+	margin-left: auto;
+    margin-right: auto;
+}
+.imglikedin {
+	transition: 400ms;
+	opacity: 70%;
+	width:150px;
+	height:40px;
+}
+.imglikedin:hover {
+	opacity: 1;
+}
+.portifolio {
+	transition: 400ms;
+	opacity: 70%;
+	width:110px;
+	height:80px;
+}
+.portifolio:hover {
+	opacity: 1;
+	width:100%;
+	height:100%;
+
 }
