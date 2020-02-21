@@ -67,9 +67,10 @@ img.robo {
 	padding: 20px;
 	justify-content: center;
 	text-align: center;
+	color: #FFBB00;
 }
 a: {
-	color: #FFBB00;
+	#FFBB00
 	font-size: 20px;
 	text-decoration:none;
 	transition:all 1.s ease;
