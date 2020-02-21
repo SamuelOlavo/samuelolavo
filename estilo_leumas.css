@@ -67,16 +67,11 @@ img.robo {
 	padding: 20px;
 	justify-content: center;
 	text-align: center;
-	color: #FFBB00;
-	opacity: 70%;
 }
-a: {
+a:link {
 	color: #FFBB00;
 	font-size: 20px;
-	text-decoration: none;
-	font-weight: bold;
-	font-size: 20px;
-	
+	text-decoration:none;
 }
  a:visited {
 	/*color: #290A52;*/
@@ -90,19 +85,15 @@ a:hover {
 	opacity: 100%;
 	text-shadow: 2px 0 2px black;
 }
-/*
 a:active {
 	color: yellow;
 	font-size:30px;
-}*/
-
+}
 .menu2:hover {
 	font-size:250%;
 	font-weight: bold;
-	opacity: 1;
 		
 }
-
 .conteudo{
 	margin: 0 auto;
 	height: 100%;
