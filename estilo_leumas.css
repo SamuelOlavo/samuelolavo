@@ -79,7 +79,7 @@ a:link {
 	font-size: 20px;
 	text-decoration:none;
 }
-a:hover {
+a:hover, a:focus {
 	color: #FFBB00;
 	font-size:30px;
 	opacity: 100%;
