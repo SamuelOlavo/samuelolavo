@@ -89,11 +89,12 @@ a:active {
 	color: yellow;
 	font-size:30px;
 }
-.menu2:hover {
+.menu2:hover, .menu2:focus {
 	font-size:250%;
 	font-weight: bold;
 		
 }
+
 .conteudo{
 	margin: 0 auto;
 	height: 100%;
