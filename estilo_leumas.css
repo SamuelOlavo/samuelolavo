@@ -68,6 +68,7 @@ img.robo {
 	justify-content: center;
 	text-align: center;
 	color: #FFBB00;
+	opacity: 70%;
 }
 a: {
 	color: #FFBB00;
@@ -83,7 +84,7 @@ a: {
 	font-size: 20px;
 	text-decoration:none;
 }
-a:hover, a:focus {
+a:hover {
 	color: #FFBB00;
 	font-size:30px;
 	opacity: 100%;
@@ -98,6 +99,7 @@ a:active {
 .menu2:hover {
 	font-size:250%;
 	font-weight: bold;
+	opacity: 1;
 		
 }
 
