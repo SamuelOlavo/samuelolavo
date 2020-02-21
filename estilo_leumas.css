@@ -70,9 +70,11 @@ img.robo {
 	color: #FFBB00;
 }
 a: {
-	#FFBB00
+	color: #FFBB00;
 	font-size: 20px;
-	text-decoration:none;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 20px;
 	
 }
  a:visited {
