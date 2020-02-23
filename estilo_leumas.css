@@ -211,10 +211,11 @@ a.groupskill:hover {
 
 #contem{	
 	float: right;
-	width: 10%;
-	bottom: 50px;
+	width: 50%;
+	height: 10px;
+	bottom: 30px;
 	margin-left: auto;
-    margin-right: auto;
+    margin-right: 0;
 }
 .imglikedin {
 	transition: 400ms;
@@ -228,8 +229,9 @@ a.groupskill:hover {
 .portifolio {
 	transition: 400ms;
 	opacity: 70%;
-	width:110px;
-	height:80px;
+	width:50%;
+	height:50%;
+	
 }
 .portifolio:hover {
 	opacity: 1;
