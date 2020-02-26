@@ -38,9 +38,8 @@ h1 {
 		
 }
 
-
 .flexmenu {
-	width: 60%;
+	width: 50%;
 	height: 65px;
 	margin: 0 auto;
 	display: flex;
