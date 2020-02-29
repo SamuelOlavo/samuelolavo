@@ -35,9 +35,12 @@ h1 {
 	padding-top: 10px;
 	background: #3ECCDA; 
 	text-align: center;
-		
 }
 
+.logo {
+	text-shadow: 8px 8px 8px black;	
+	margin: 30px 0px 0 0;
+}
 .flexmenu {
 	width: 60%;
 	height: 65px;
