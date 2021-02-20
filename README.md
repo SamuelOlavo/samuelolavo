@@ -18,7 +18,7 @@
 
 ### <img src="https://media.giphy.com/media/d8cFOb7rJCBu0bCaQR/giphy.gif" width="35" height="33"/> <a href="https://samuelolavo.github.io/samuelolavo" target="_self">*Clique aqui para acessar a pagina!* </a>
 
-###     <img src="C:\Users\samue\Desktop\Projeto\Imagens\CabecaSam1.png" width="55" height="55" />
+###     <img src="Imagens\CabecaSam1.png" width="55" height="55" />
 
 
 ------
