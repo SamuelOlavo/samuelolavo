@@ -1,4 +1,4 @@
-﻿# <img src="Imagens\CabecaSam1.png" width="65" height="65"/>Pagina Web - Samuel Olavo 
+﻿# <img src="Imagens\CabecaSam1.png" width="50" height="50"/>Pagina Web - Samuel Olavo 
 
 
 
