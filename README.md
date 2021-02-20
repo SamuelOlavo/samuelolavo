@@ -1,4 +1,4 @@
-﻿# <img src="C:\Users\samue\Desktop\Projeto\Imagens\CabecaSam.png" style="zoom:15%;" />Pagina Web - Samuel Olavo 
+﻿# <img src="Imagens\CabecaSam.png" style="zoom:15%;" />Pagina Web - Samuel Olavo 
 
 
 
