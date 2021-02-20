@@ -1,10 +1,12 @@
-﻿# Pagina Web - Samuel Olavo  <img src="Imagens\CabecaSam1.png" width="50" height="50"/>
+﻿# Pagina Web - Samuel Olavo  <img src="Imagens\CabecaSam1.png" width="45" height="40"/>
 
 
 
 #### Olá, seja bem vindo ao meu projeto remoto.  
 
 ####  
+
+
 
 #### Esse projeto foi criado para compartilhar e apresentar um pouco do meu conhecimento em desenvolvimento web.
 
