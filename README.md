@@ -1,4 +1,4 @@
-﻿# Pagina Web - Samuel Olavo  <img src="Imagens\CabecaSam1.png" width="45" height="40"/>
+﻿# Pagina Web - Samuel Olavo  <img src="Imagens\CabecaSam.png" width="35" height="35"/>
 
 
 
@@ -16,7 +16,7 @@
 
 
 
-### <img src="https://media.giphy.com/media/d8cFOb7rJCBu0bCaQR/giphy.gif" width="35" height="33"/> <a href="https://samuelolavo.github.io/samuelolavo" target="_self">Clique aqui para acessar a pagina! </a>
+### <img src="https://media.giphy.com/media/d8cFOb7rJCBu0bCaQR/giphy.gif" width="35" height="33"/> <a href="https://samuelolavo.github.io/samuelolavo" target="_self">*Clique aqui para acessar a pagina!* </a>
 
 ###  :sweat_smile:
 
