@@ -10,7 +10,11 @@
 
 
 
+<<<<<<< HEAD
 ### <img src="https://media.giphy.com/media/d8cFOb7rJCBu0bCaQR/giphy.gif" width="35" height="33" /> <a href="https://samuelolavo.github.io/samuelolavo" target="_self">Clique aqui para entrar na pagina! </a>
+=======
+### <img src="https://media.giphy.com/media/d8cFOb7rJCBu0bCaQR/giphy.gif" width="35" height="33"/> <a href="https://samuelolavo.github.io/samuelolavo" target="_self">Clique aqui para entrar na pagina! </a>
+>>>>>>> 0f9a161a448b5dd5b264f555484a4a4ef4827e36
 
  
 
