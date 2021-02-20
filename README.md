@@ -10,7 +10,7 @@
 
 
 
-### <img src="https://media.giphy.com/media/d8cFOb7rJCBu0bCaQR/giphy.gif" style="zoom:6%;" /> <a href="https://samuelolavo.github.io/samuelolavo" target="_self">Clique aqui para entrar na pagina! </a>
+### <img src="https://media.giphy.com/media/d8cFOb7rJCBu0bCaQR/giphy.gif" style="zoom:6%;"/> <a href="https://samuelolavo.github.io/samuelolavo" target="_self">Clique aqui para entrar na pagina! </a>
 
  
 
