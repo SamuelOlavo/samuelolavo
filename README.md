@@ -2,22 +2,23 @@
 
 
 
-#### Olá, seja bem vindo ao meu projeto remoto.
+#### Olá, seja bem vindo ao meu projeto remoto.  
 
-##### Esse projeto foi criado para compartilhar e apresentar um pouco do meu conhecimento em desenvolvimento de pagina web.
+####  
 
-##### Tem o intuito de apresentar quem eu sou, meu perfil profissional, meu currículo, e também alguns trabalhos que foram desenvolvidos.
+#### Esse projeto foi criado para compartilhar e apresentar um pouco do meu conhecimento em desenvolvimento web.
+
+#### Tem o intuito de apresentar quem eu sou, meu perfil profissional, meu currículo, e também alguns trabalhos que foram desenvolvidos.
 
 
 
-<<<<<<< HEAD
-### <img src="https://media.giphy.com/media/d8cFOb7rJCBu0bCaQR/giphy.gif" width="35" height="33" /> <a href="https://samuelolavo.github.io/samuelolavo" target="_self">Clique aqui para entrar na pagina! </a>
-=======
-### <img src="https://media.giphy.com/media/d8cFOb7rJCBu0bCaQR/giphy.gif" width="35" height="33"/> <a href="https://samuelolavo.github.io/samuelolavo" target="_self">Clique aqui para entrar na pagina! </a>
->>>>>>> 0f9a161a448b5dd5b264f555484a4a4ef4827e36
 
- 
 
+### <img src="https://media.giphy.com/media/d8cFOb7rJCBu0bCaQR/giphy.gif" width="35" height="33"/> <a href="https://samuelolavo.github.io/samuelolavo" target="_self">Clique aqui para acessar a pagina! </a>
+
+
+
+### :smile:
 
 
 ------
