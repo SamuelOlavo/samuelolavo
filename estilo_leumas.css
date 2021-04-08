@@ -222,26 +222,46 @@ a.groupskill:hover {
 	margin-left: auto;
     margin-right: 0;
 }
-.imglikedin {
-	transition: 400ms;
-	opacity: 70%;
-	width:150px;
-	height:40px;
+.img_redes {
+	display: flex; /*conceito de flex box, manda tudo para linha*/
+    flex-direction: row;
+    align-items: center;
+	height:65px;
+	padding-right: 0px;
+	margin: 0px;
 }
-.imglikedin:hover {
+
+.redes{
+	transition: 400ms;
+	opacity: 50%;
+	padding-left: 15px;
+	margin: 0;
+}
+.redes:hover{
 	opacity: 1;
+}
+
+.galeria {
+	display: flex; /*conceito de flex box, manda tudo para linha*/
+    flex-direction: row;
+	align-items: center;
+	justify-content:center;
+	padding: 5px;
+	
 }
 .portifolio {
 	transition: 400ms;
-	opacity: 70%;
-	width:50%;
-	height:50%;
-	
+	opacity: 90%;
+	width:100%;
+	height:100%;
+		
 }
 .portifolio:hover {
 	opacity: 1;
 	width:100%;
 	height:100%;
+	padding: 3px;
+	margin-right: 5px;
 
 }
 a.ancora{
