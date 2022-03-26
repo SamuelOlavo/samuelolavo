@@ -4,7 +4,7 @@
 
 #### Olá, seja bem vindo ao meu repositorio do GIT.  
 
-<img height='180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username={SamuelOlavo}&theme=blue-green"/>
+<img height='180em" src="https://github-readme-stats.vercel.app/api/top-langs/?samuelolavo={samuelolavo}&theme=blue-green"/>
 ####  
 
 
