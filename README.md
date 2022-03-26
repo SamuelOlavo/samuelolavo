@@ -4,7 +4,7 @@
 
 ### Olá, seja bem vindo ao meu repositorio do GIT.  
 
-<div align="center">
+<div style="display: inline_block>
   <a href="https://github.com/samuelolavo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelolavo&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelolavo&layout=compact&langs_count=7&theme=highcontrast"/>
