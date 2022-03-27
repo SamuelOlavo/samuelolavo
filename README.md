@@ -14,7 +14,7 @@
   <img align="center" alt="Sam-Ub" height="50" width="170" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img align="center" alt="Sam-HTML" height="50" width="160" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Sam-CSS" height="50" width="160" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="right" style="border-radius:5px;" src="Imagens\CorridaSam.png" width="170" height="300" />
+    <img align="right" style="border-radius:5px;" src="Imagens\CorridaSam.png" width="150" />
 </div>
 
 
