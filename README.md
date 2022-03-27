@@ -21,7 +21,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="40"/> 
 </div>
 <div align="center">  
- <img align="right" style="border-radius:5px;" src="Imagens\CorridaSam.png" width="120"/>
+ <img align="right" style="border-radius:10px;" src="Imagens\CorridaSam.png" width="128"/>
 </div>
 
 
