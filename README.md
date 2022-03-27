@@ -35,12 +35,10 @@
 
 
 
-
+<br>
 <a href="https://samuelolavo.github.io/samuelolavo" target="_self"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" width="170" height="35"/></a>
-
+<br>
 
   
-  
-
 ------
 
