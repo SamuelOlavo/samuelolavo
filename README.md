@@ -9,13 +9,21 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=samuelolavo&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelolavo&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Sam-mysql" height="50" width="170" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="Sam-Ub" height="50" width="170" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img align="center" alt="Sam-HTML" height="50" width="160" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Sam-CSS" height="50" width="160" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="right" style="border-radius:5px;" src="Imagens\CorridaSam.png" width="150" />
+  <div style="center: table" align="center" >
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40"/>  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40"/>  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40"/>  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40"/>  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40"/>  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="40"/>  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40"/>  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40"/>  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="40"/> 
 </div>
+<div align="center">  
+ <img align="right" style="border-radius:5px;" src="Imagens\CorridaSam.png" width="120"/>
+</div>
+
 
 
 
@@ -31,6 +39,8 @@
 <a href="https://samuelolavo.github.io/samuelolavo" target="_self"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" width="170" height="35"/></a>
 
 
+  
+  
 
 ------
 
