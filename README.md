@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/samuelolavo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelolavo&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelolavo&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=samuelolavo&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelolavo&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Sam-mysql" height="50" width="170" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
