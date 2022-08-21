@@ -18,7 +18,7 @@ h1 {
 	margin: 0;
 	width: 100%;
 	background-image: url(Imagens/nuvens.png);
-	height: 220px;
+	height: 197px;
 	/*box-shadow: 0 0 30px black;*/
 }
 
@@ -26,10 +26,9 @@ h1 {
 	/*position:top ;*/
 	text-shadow: 8px 8px 8px black;
 	vertical-align: top;
-	font-size: 30px;
 	margin: 0 auto;
 	width: 800px;
-	height: 190px;
+	height: 150px;
 	padding-top: 70px;
 	text-align: center;
 }
@@ -93,10 +92,11 @@ a.menu:hover, a.menu:active, a.menu:visited, a.menu:focus {
 	color:#3D3D3D;
 	justify-content: center;
 	text-align: justify;
+	line-height: 1px;
 	font: normal normal normal 20px 'Orbitron', sans-serif;
-	border: #EEA808;
-	
+	border: #EEA808;  
 }
+.conteudo p::first-letter {font-size:x-large;}
 
 #corrida {	
 	float: right;
@@ -107,6 +107,7 @@ a.menu:hover, a.menu:active, a.menu:visited, a.menu:focus {
 	padding: 0.1em;
 	align-items: center;
 	text-align: center;
+
 }
 
 img.escala {
