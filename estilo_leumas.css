@@ -298,3 +298,13 @@ footer {
 	float: bottom;
 	padding-bottom: 50px;
 }
+
+
+
+@media (max-width: 600px) {
+	p::first-letter { font-size:xx-large; }
+	body {
+		background-color: red;
+	}
+
+}

@@ -1,23 +1,7 @@
-/*
-@media screen and (min-width:500px) {
-    .box p {
-        font: normal normal 30px 'Orbitron', sans-serif;  
-        margin:0,2% 0;
-        }
-    .box h2 {
-        margin:0,1% 0;
-        font-size:36px;
-        border-style: solid;
-        border-bottom-width: 5px;
-        border-top-width: 0;
-        border-right-width: 0;
-        border-left-width: 10px;
-            
-          }
-    .box h3 {
-        font: normal bolder normal 33px 'Orbitron', sans-serif;  
-        margin:0,1% 0;
-        
-          }
-}    
-   
+/* @media screen and (max-width: 600px) {
+    body { background-color: blue; } 
+    p::first-letter { font-size:xx-large; }
+
+}*/
+
+ p::first-letter { font-size:xx-large; }
