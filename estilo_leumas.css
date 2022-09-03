@@ -109,6 +109,10 @@ a.menu:hover, a.menu:active, a.menu:visited, a.menu:focus {
 	text-align: center;
 
 }
+img.corrida {
+	height: 100%;
+	width: 100%;
+}
 
 img.escala {
 	width: 100%;
