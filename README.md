@@ -4,10 +4,10 @@
 
 ### Olá, seja bem vindo ao meu repositorio do GIT.  
 
-<div align="center">
-  <a href="https://github.com/samuelolavo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=samuelolavo&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelolavo&layout=compact&langs_count=7&theme=highcontrast"/>
+<div>
+<a href="https://github.com/SamuelOlavo">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelOlavo&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelOlavo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   <div style="center: table" align="center" >
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40"/>  
