@@ -31,7 +31,7 @@ h1 {
  }
  @keyframes move-image {
 	0% { background-position: 0 0; }
-	100% { background-position: -1500px 0px; }
+	100% { background-position: 1500px 0px; }
    }
 
 #DivLogo {
@@ -81,7 +81,7 @@ a.menu:link {
 }
 
 a.menu:hover, a.menu:active, a.menu:visited, a.menu:focus {
-	color: #3D3D3D;
+	color: #1C2229;
 	font-size: 210%;
 	font-weight:bolder;
 	opacity: 1;
@@ -101,7 +101,7 @@ a.menu:hover, a.menu:active, a.menu:visited, a.menu:focus {
 	margin: 0 auto;
 	height: 100%;
 	width: 900px;
-	color:#3D3D3D;
+	color:#1C2229;
 	justify-content: center;
 	text-align: justify;
 	line-height: 1px;
@@ -191,7 +191,7 @@ a.groupskill:hover {
 	font-size: 15px;
 	margin: 12px 10px 10px 10px;
 	padding: 1px;
-	width: 200px;
+	width: 500px;
 	height: 18px;
 	background-image: linear-gradient(to right, rgb(0, 0, 0), transparent); 
 	text-align: center;
@@ -320,5 +320,5 @@ footer {
 
 @keyframes move-footer {
 	0% { background-position: 0 0; }
-	100% { background-position: 1500px 0px; }
+	100% { background-position: -1500px 0px; }
    }
