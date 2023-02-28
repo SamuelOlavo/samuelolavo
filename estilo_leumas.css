@@ -18,9 +18,15 @@ h1 {
 	margin: 0;
 	width: 100%;
 	background-image: url(Imagens/nuvens.png);
-	height: 197px;
+	background-size: cover;
+	background-position: center;
+	animation: move-image 250s linear infinite;
 	/*box-shadow: 0 0 30px black;*/
-}
+ }
+ @keyframes move-image {
+	0% { background-position: 0 0; }
+	100% { background-position: -1500px 0px; }
+   }
 
 #DivLogo {
 	/*position:top ;*/
