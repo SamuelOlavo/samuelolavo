@@ -242,16 +242,16 @@ a.groupskill:hover {
 	display: flex; /*conceito de flex box, manda tudo para linha*/
     flex-direction: row;
     align-items: center;
-	height:65px;
-	padding-right: 0px;
-	margin: 0px;
+	height: 1px;
+	padding-top: 1%;
 }
 
 .redes{
 	transition: 400ms;
-	opacity: 50%;
-	padding-left: 15px;
-	margin: 0;
+	opacity: 90%;
+	padding-left: 190px;
+	
+	
 }
 .redes:hover{
 	opacity: 1;
@@ -265,21 +265,22 @@ a.groupskill:hover {
 	padding: 5px;
 	
 }
-.portifolio {
-	transition: 400ms;
-	opacity: 90%;
+.portifolio {	
+	opacity: 1;
 	width:100%;
 	height:100%;
+	padding: 0;
+	
 		
 }
-.portifolio:hover {
+/* .portifolio:hover {
 	opacity: 1;
 	width:100%;
 	height:100%;
 	padding: 3px;
 	margin-right: 5px;
 
-}
+} */
 a.ancora{
 	width: 50px;
 	height: 50px;
@@ -322,3 +323,56 @@ footer {
 	0% { background-position: 0 0; }
 	100% { background-position: -1500px 0px; }
    }
+
+.carousel {
+    width: 800px;
+    height: 750px;
+    position: relative;
+    overflow: hidden;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.slide {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.prev-btn,
+.next-btn {
+    position: absolute;
+    top: 50%;
+    z-index: 10;
+    padding: 10px;
+    background: #000;
+    color: #fff;
+    transition: all 0.3s ease-in-out;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.prev-btn {
+    left: 0;
+    margin-left: -25px;
+}
+
+.next-btn {
+    right: 0;
+    margin-right: -25px;
+}
+
+.prev-btn:hover,
+.next-btn:hover {
+    background: #fff;
+    color: #000;
+}
+.video-wrapper {	
+	border: 0.6rem inset #524141;	
+	margin-bottom: 1%;
+}
