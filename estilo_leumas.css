@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=DotGothic16&family=Open+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation&family=Major+Mono+Display&family=Roboto:wght@300&display=swap');
 
 body  {
 	background: linear-gradient(0deg, rgba(0,154,0,1) 85%, rgba(0,204,255,1) 80%);
@@ -105,7 +106,7 @@ a.menu:hover, a.menu:active, a.menu:visited, a.menu:focus {
 	justify-content: center;
 	text-align: justify;
 	line-height: 1px;
-	font: normal normal normal 20px 'Orbitron', sans-serif;
+	font: normal normal normal 20px 'Edu NSW ACT Foundation';
 	border: #EEA808;  
 }
 .conteudo p::first-letter {font-size:x-large;}
@@ -211,7 +212,7 @@ a.groupskill:hover {
   }
   .box h2 {
 	margin:0,1% 0;
-	font-size:28px;
+	font:28px 'Orbitron', sans-serif;
 	border-style: solid;
     border-bottom-width: 5px;
     border-top-width: 0;
@@ -220,12 +221,12 @@ a.groupskill:hover {
 	
   }
   .box h3 {
-	font: normal bolder normal 18px 'Orbitron', sans-serif;  
+	font: normal bolder normal 16px 'Orbitron', sans-serif;  
 	margin:0,1% 0;
 
   }
   .box p {
-	font: normal normal 16px 'Orbitron', sans-serif;  
+	font: normal normal 20px 'Roboto';  
 	margin:0,1% 0;		
   }
 
@@ -319,6 +320,6 @@ footer {
 
 .video-wrapper {	
 	border-radius: 6px 6px 6px 6px;
-	border: 0.6rem inset #009a00a1;	
+	border: 0.3rem inset #0e110ea1;	
 	margin-bottom: 1%;
 }
