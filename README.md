@@ -57,4 +57,4 @@ Atualmente focado em escalabilidade com **Node.js**, **React** e automação de 
 ### 📫 Contato
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/samuel-olavo-teixeira-8056747a/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:samuelobt@gmail.com)
-[<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=react&logoColor=white" />]([https://samuelolavo.github.io](https://my-portfolio-samuel-olavos-projects.vercel.app/))
+[<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=react&logoColor=white" />](https://my-portfolio-samuel-olavos-projects.vercel.app/)
