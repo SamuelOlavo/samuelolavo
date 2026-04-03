@@ -39,10 +39,11 @@ Atualmente focado em escalabilidade com **Node.js**, **React** e automação de 
 ### 📊 Estatísticas e Atividade
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelOlavo&layout=compact&langs_count=7&theme=dracula&hide_border=true&card_width=350" />
+
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelOlavo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&card_width=350" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelOlavo&theme=dracula&hide_border=true" />
 </div>
+
 ---
 
 ### 🚀 Projetos em Destaque
@@ -54,6 +55,6 @@ Atualmente focado em escalabilidade com **Node.js**, **React** e automação de 
 ---
 
 ### 📫 Contato
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/samuelolavo)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/samuel-olavo-teixeira-8056747a/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:samuelobt@gmail.com)
 [<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=react&logoColor=white" />]([https://samuelolavo.github.io](https://my-portfolio-samuel-olavos-projects.vercel.app/))
