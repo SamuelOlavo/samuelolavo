@@ -10,7 +10,7 @@ Analista de Sistemas e Desenvolvedor com sólida experiência em ecossistemas **
 Especialista em converter regras de negócio complexas (como conformidade fiscal SPED) em soluções tecnológicas eficientes. 
 Atualmente focado em escalabilidade com **Node.js**, **React** e automação de workflows inteligentes com **n8n**.
 
-- 🔭 Desenvolvendo o **ML Trend Hunter**: Automação de análise de mercado.
+- 🔭 Desenvolvendo o **Trend Hunter**: Automação de análise de mercado.
 - ⚙️ Expertise em implantação de **ERP** e gerenciamento de servidores.
 - ⚡ Apaixonado por automação de processos e eficiência operacional.
 
@@ -48,7 +48,7 @@ Atualmente focado em escalabilidade com **Node.js**, **React** e automação de 
 
 ### 🚀 Projetos em Destaque
 
-* **[ML Trend Hunter](https://github.com/SamuelOlavo/MLHunterTrend):** Scraping e automação com n8n para identificar oportunidades no Mercado Livre.
+* **[Trend Hunter](https://github.com/SamuelOlavo/TrendHunter):** Scraping e automação com n8n para identificar oportunidades no Ecommerce.
 * **[API SIAND](https://github.com/SamuelOlavo/API-SIAND):** Backend robusto em Node/Mongo para gestão de agendamentos.
 * **[ConsultaCNPJ](https://github.com/SamuelOlavo/ConsultaCNPJ):** Automação em Python para integração de dados cadastrais.
 
